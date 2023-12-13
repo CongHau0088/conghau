@@ -8,5 +8,6 @@ namespace b1.models
 {
     internal class Students
     {
+        public int ID { get; set; }
     }
 }
