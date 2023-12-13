@@ -8,5 +8,6 @@ namespace b1.models
 {
     internal class Students
     {
+        public int MSSV { get; set; }
     }
 }
